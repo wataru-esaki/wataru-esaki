@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @wataruesaki
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Wataru Esaki
+- 👀 I’m interested in React and backend
+- 🌱 I’m currently learning Nest.js and Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-wataruesaki/wataruesaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
