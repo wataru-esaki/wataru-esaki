@@ -1,5 +1,2 @@
-- 👋 Hi, I’m Wataru Esaki
-- 👀 I’m interested in React and backend
-- 🌱 I’m currently learning Nest.js and Rust
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Wataru Esaki.
+I'm interested in TypeScript, React and Rust.
